@@ -1,1 +1,2 @@
 # Menyimpan-Data-Sensor-ke-MYSQL-Melalui-Raspberry-pi
+Pada perancangan ini menggunakan 3 sensor, antara lain sensor suhu (LM35), sensor ultrasonik, dan sensor cahaya (BH1750). Ketiga sensor ini akan menyimpan data-datanya ketika dijalankan di database MySQL melalui Raspberry Pi 3+. Merancang perangkat menggunakan Raspi dan sensor, kemudian melakukan konfigurasi melalui Thonny (python) di Raspi. Data yang keluar akan langsung tersambung ke database MySQL yang sudah dibuat sebelumnya.
